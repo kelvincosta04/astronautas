@@ -27,3 +27,7 @@ header{
 .principal{
     background-image: linear-gradient(rgb(232, 246, 243), white);
 }
+
+.imagem-principal{
+    width: 500px;
+}
