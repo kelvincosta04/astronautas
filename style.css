@@ -25,18 +25,17 @@ header{
 }
 
 .principal{
-    background-image: linear-gradient(rgb(232, 246, 243), white);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background-image: linear-gradient(rgb 232 , 246 , 243), white
 }
+
+
+    
+
+
 .imagem-principal{
     width: 500px;
 }
 
 .div-principal{
     width: 35%;
-}
-.paragrafo{
-    text-align: justify;
 }
